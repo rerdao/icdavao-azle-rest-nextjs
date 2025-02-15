@@ -4,7 +4,7 @@ This boilerplate is designed to easily build 100% decentralized fullstack web ap
 
 To get started developing in the browser, click this button:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rerdao/icdavao-azle-api-rest-nextjs)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rerdao/icdavao-azle-rest-nextjs)
 
 ## Features
 
